@@ -1,5 +1,3 @@
-[[https://www.denverlibrary.org/files/css_code.jpg]]
-
 #Structure#
 * [Demos](https://github.com/WebArtWork/ngImgHandler/wiki/Demos)
 * [Screenshots](https://github.com/WebArtWork/ngImgHandler/wiki/Screenshots)
