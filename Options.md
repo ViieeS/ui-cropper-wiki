@@ -3,7 +3,7 @@
 ## Options
 
 ```html
-<img-crop
+<ui-cropper
     image="{string}"
     result-image="{string}"
     result-array-image="{array}"
@@ -30,7 +30,7 @@
    [on-load-begin="{expression"]
    [on-load-done="{expression"]
    [on-load-error="{expression"]
-></img-crop>
+></ui-cropper>
 ```
 
 ### image
