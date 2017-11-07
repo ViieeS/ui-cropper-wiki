@@ -49,6 +49,10 @@ Assignable angular expression to data-bind to. NgImgCrop puts a data uri of a cr
 
 Assignable angular expression to data-bind to. NgImgCrop puts a blob of a cropped image into it.
 
+### canvas-scalemode
+
+Optional Default value is 'fixed-height'. If set to 'full-width' the directive uses all width available and the canvas expands in height as much as it need to maintain the aspect ratio. If set to 'fixed-height', the directive is restricted by a parent element in height
+
 ### url-blob
 
 Assignable angular expression to data-bind to. NgImgCrop puts an url blob of a cropped image into it.
