@@ -127,6 +127,16 @@ While you have added an array inside of option result-image-size you will have o
 
 *Optional*. Provide a color palette for image using color-thief (https://github.com/lokesh/color-thief).
 
+### chargement
+
+*Optional*. Allow you to modify text of loading message.
+
+### allow-propagation
+
+*Optional*. A boolean determining whether to allow `mousedown` event propagation.
+
+## Callbacks
+
 ### on-change
 
 *Optional*. Expression to evaluate upon changing the cropped part of the image. The cropped image data is available as $dataURI.
@@ -142,7 +152,3 @@ While you have added an array inside of option result-image-size you will have o
 ### on-load-error
 
 *Optional*. Expression to evaluate when the source image didn't load.
-
-### chargement
-
-*Optional*. Allow you to modify text of loading message.
